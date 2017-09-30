@@ -1,0 +1,35 @@
+{
+  "name": "final_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenQuocTruong14110425/meanstack_webshoe.git"
+  },
+  "keywords": [
+    "mean",
+    "stack",
+    "tta"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NguyenQuocTruong14110425/meanstack_webshoe/issues"
+  },
+  "homepage": "https://github.com/NguyenQuocTruong14110425/meanstack_webshoe#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "ejs": "^2.5.7",
+    "express": "^4.16.1",
+    "express-session": "^1.15.6",
+    "mongoose": "^4.11.13",
+    "nodemon": "^1.12.1"
+  }
+}
